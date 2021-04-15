@@ -14,7 +14,7 @@ sentimental analysis of news headlines
 dataset:https://finance.yahoo.com/<br/>
 tools and technologies: Python and Google colab
 
-Youtube link:
+Youtube link:https://youtu.be/rSIPnOtQGSg
 
 Reference Links:
 https://youtu.be/dqT-7hE3htY <br/>
