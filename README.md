@@ -18,6 +18,5 @@ Youtube link:https://youtu.be/rSIPnOtQGSg
 
 Reference Links:
 https://youtu.be/dqT-7hE3htY <br/>
-https://www.dezyre.com/recipes/insert-new-column-based-on-condition-in-python<br/>
-https://www.learndatasci.com/tutorials/sentiment-analysis-reddit-headlines-pythons-nltk/
+<br/>https://www.learndatasci.com/tutorials/sentiment-analysis-reddit-headlines-pythons-nltk/
 </big>
